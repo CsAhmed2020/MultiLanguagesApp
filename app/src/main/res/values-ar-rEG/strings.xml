@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LocaleHelper</string>
+
+    <string name="main_activity_title"> العنوان باللغة العربية</string>
+    <string name="main_activity_desc">الوصف باللغة العربية</string>
+    <string name="main_activity_about">النص باللغة العربية</string>
+    <string name="main_activity_to_tr_button">التركية</string>
+    <string name="main_activity_to_en_button">الإنجليزية</string>
+    <string name="main_activity_toolbar_title">العنوان بالإنجليزية</string>
+    <string name="main_activity_to_it_button">الإيطالية</string>
+    <string name="main_activity_to_fr_button">الفرنسية</string>
+    <string name="main_activity_to_ar_button">العربية</string>
+</resources>

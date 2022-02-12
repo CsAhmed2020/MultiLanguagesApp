@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LocaleHelper</string>
+
+    <string name="main_activity_title">[FR] Ce titre est en français</string>
+    <string name="main_activity_desc">Ceci est le texte de description dans français.</string>
+    <string name="main_activity_about">Il s’agit de texte dans français.</string>
+    <string name="main_activity_to_tr_button">turc</string>
+    <string name="main_activity_to_en_button">anglais</string>
+    <string name="main_activity_toolbar_title">Ce titre est en français</string>
+    <string name="main_activity_to_it_button">italien</string>
+    <string name="main_activity_to_fr_button">français</string>
+    <string name="main_activity_to_ar_button">arabe</string>
+</resources>
